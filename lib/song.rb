@@ -19,5 +19,5 @@ class Song
     @@genres.unique
   end
 
-  
+
 end
